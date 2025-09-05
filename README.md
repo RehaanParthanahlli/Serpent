@@ -12,7 +12,7 @@ if __name__ == '__main__':
 **filename:**``main.py``
 # Import the entire module
 ```python
-# import module  
+import module  
 def main():
     module.greet("Rehaan")  # Call the function from module.py
 
