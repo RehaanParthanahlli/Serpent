@@ -21,7 +21,7 @@ if __name__ == '__main__':
 ```
 
 
-## 🧪 Output After Running **main.py**!
+## 🧪 Output After Running ```main.py``!
   Hello, Rehaan!
 
 
