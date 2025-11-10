@@ -23,9 +23,9 @@ if __name__ == '__main__':
 
 ## 🧪 Output !
 **filename:**``main.py``
-``
+```Bash
 python main.py
-``
+```
 ``Output - Hello, Rehaan!``
 
 
