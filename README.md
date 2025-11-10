@@ -21,9 +21,12 @@ if __name__ == '__main__':
 ```
 
 
-## 🧪 Output After Running !
-``main.py``
-  Hello, Rehaan!
+## 🧪 Output !
+**filename:**``main.py``
+``
+python main.py
+``
+``Output - Hello, Rehaan!``
 
 
 
