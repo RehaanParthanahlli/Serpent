@@ -1,5 +1,5 @@
 # N1 -
-# 🧩 Setup: Two Files in the Same Folder
+## 🧩 Setup - 2 Files in the Same Folder!
 **filename:** ``module.py``
 ```python
 def greet(name):
@@ -10,7 +10,7 @@ if __name__ == '__main__':
 ```
 
 **filename:**``main.py``
-# Import the entire module
+## Import the entire module!
 ```python
 import module  
 def main():
@@ -21,8 +21,8 @@ if __name__ == '__main__':
 ```
 
 
-# 🧪 Output When You Run main.py
-Hello, Rehaan!
+## 🧪 Output After Running **main.py**!
+  Hello, Rehaan!
 
 
 
